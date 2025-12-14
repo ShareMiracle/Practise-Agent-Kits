@@ -45,3 +45,7 @@ flowchart LR
 
     Middleware --> Work --> Publisher
 ```
+
+## 旅游攻略图片生成工具
+
+请查看 [README_TOUR_TOOL.md](README_TOUR_TOOL.md) 获取详细文档。

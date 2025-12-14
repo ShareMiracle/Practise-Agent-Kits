@@ -164,9 +164,23 @@ cython_debug/
 
 # macOS
 .DS_Store
+**/.DS_Store
 
 # Output files
 output/
 
 # Requirements files
 requirements.txt
+
+# Local Python toolchain / dependency locks (do not commit)
+uv.lock
+# pyproject.toml # Kept tracked
+.python-version
+
+# Local data (cookies, output, generated assets)
+data_storage/cookies/
+data_storage/output/
+generated_images/
+
+# User data
+**/zhihu_user_data/
