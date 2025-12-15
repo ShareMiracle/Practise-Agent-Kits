@@ -1,0 +1,117 @@
+[
+  {
+    "author": "Zhenyu Zhang 0005",
+    "papers": [
+      {
+        "title": "Learning To Aggregate and Personalize 3D Face From In-the-Wild Photo Collection.",
+        "conference": "CVPR",
+        "year": 2021
+      },
+      {
+        "title": "Physically-guided Disentangled Implicit Rendering for 3D Face Modeling.",
+        "conference": "CVPR",
+        "year": 2022
+      },
+      {
+        "title": "Learning to Restore 3D Face from In-the-Wild Degraded Images.",
+        "conference": "CVPR",
+        "year": 2022
+      },
+      {
+        "title": "Learning Neural Proto-Face Field for Disentangled 3D Face Modeling in the Wild.",
+        "conference": "CVPR",
+        "year": 2023
+      }
+    ],
+    "homepage": "N/A",
+    "email": "N/A",
+    "email_text": "Subject: Quick Coffee Chat?  \n\nHi Zhenyu,  \n\nI’m Siyan, currently working on self-supervised 3D registration and medical image analysis. I’ve been following your work and really appreciate your contributions in this space. Would you be open to a quick coffee chat sometime? I’d love to hear about your research and exchange thoughts.  \n\nNo pressure at all—just happy to connect briefly if you’re up for it!  \n\nBest,  \nSiyan"
+  },
+  {
+    "author": "Tianyu Huang",
+    "papers": [
+      {
+        "title": "Learning Accurate 3D Shape Based on Stereo Polarimetric Imaging.",
+        "conference": "CVPR",
+        "year": 2023
+      },
+      {
+        "title": "Scalable 3D Registration via Truncated Entry-Wise Absolute Residuals.",
+        "conference": "CVPR",
+        "year": 2024
+      },
+      {
+        "title": "DreamControl: Control-Based Text-to-3D Generation with 3D Self-Prior.",
+        "conference": "CVPR",
+        "year": 2024
+      }
+    ],
+    "homepage": "https://tianyuhuang.github.io",
+    "email": "hetianyu@scut.edu.cn",
+    "email_text": "Subject: Quick Coffee Chat?  \n\nHi Tianyu,  \n\nI'm Siyan, currently working on self-supervised 3D registration and medical image analysis. I’ve been following your work and really appreciate your contributions to the field.  \n\nWould you be open to a short coffee chat sometime? I’d love to exchange thoughts and learn a bit about your research journey.  \n\nLooking forward to connecting!  \nBest,  \nSiyan"
+  },
+  {
+    "author": "Yuanhui Huang 0002",
+    "papers": [
+      {
+        "title": "Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction.",
+        "conference": "CVPR",
+        "year": 2023
+      },
+      {
+        "title": "SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction.",
+        "conference": "CVPR",
+        "year": 2024
+      },
+      {
+        "title": "GaussianFormer-2: Probabilistic Gaussian Superposition for Efficient 3D Occupancy Prediction.",
+        "conference": "CVPR",
+        "year": 2025
+      }
+    ],
+    "homepage": "https://yuanhui-huang.github.io",
+    "email": "yuanhui.huang@uwaterloo.ca",
+    "email_text": "Subject: Quick Coffee Chat?\n\nHi Yuanhui,\n\nI'm Siyan, currently working on self-supervised 3D registration and medical image analysis. I’ve been really interested in your work and would love to chat briefly—grab a coffee or hop on a quick call sometime. No agenda, just hoping to learn a bit from your experience.\n\nLet me know if you’d be open to it!\n\nBest,  \nSiyan"
+  },
+  {
+    "author": "Sheng Ao",
+    "papers": [
+      {
+        "title": "SpinNet: Learning a General Surface Descriptor for 3D Point Cloud Registration.",
+        "conference": "CVPR",
+        "year": 2021
+      },
+      {
+        "title": "BUFFER: Balancing Accuracy, Efficiency, and Generalizability in Point Cloud Registration.",
+        "conference": "CVPR",
+        "year": 2023
+      }
+    ],
+    "homepage": "https://shengao.me",
+    "email": "sheng.ao@ed.ac.uk",
+    "email_text": "Subject: Quick Coffee Chat?\n\nHi Sheng,  \n\nI’m Siyan, currently working on self-supervised 3D registration and medical image analysis. I’ve been really interested in your work and would love to chat briefly—over coffee or a quick call—just to exchange thoughts and learn a bit about your research journey.  \n\nNo pressure at all, but I’d appreciate the chance to connect if you’re open to it!  \n\nBest,  \nSiyan"
+  },
+  {
+    "author": "Shreyas Hampali",
+    "papers": [
+      {
+        "title": "Monte Carlo Scene Search for 3D Scene Understanding.",
+        "conference": "CVPR",
+        "year": 2021
+      },
+      {
+        "title": "Keypoint Transformer: Solving Joint Identification in Challenging Hands and Object Interactions for Accurate 3D Pose Estimation.",
+        "conference": "CVPR",
+        "year": 2022
+      },
+      {
+        "title": "In-Hand 3D Object Scanning from an RGB Sequence.",
+        "conference": "CVPR",
+        "year": 2023
+      }
+    ],
+    "homepage": "https://shreyashampali.github.io/",
+    "email": "shreyas.hampali@tugraz.at",
+    "email_text": "Subject: Quick Coffee Chat?\n\nHi Shreyas,\n\nI'm Siyan, currently working on self-supervised 3D registration and medical image analysis. I’ve been following your work and really appreciate your contributions to the field.  \n\nWould you be open to a quick coffee chat sometime? I’d love to briefly hear your thoughts on recent trends or challenges in 3D vision.\n\nLooking forward to connecting!\n\nBest,  \nSiyan"
+  }
+]

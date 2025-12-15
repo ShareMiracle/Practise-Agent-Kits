@@ -1,0 +1,120 @@
+{
+  "2025-06-17": {
+    "08:00-09:00": [
+      {
+        "title": "Registration and Morning Coffee",
+        "type": "Social",
+        "location": "Lobby",
+        "reason": "Essential for check-in and networking; no direct research relevance but required to attend subsequent sessions"
+      }
+    ],
+    "09:00-10:30": [
+      {
+        "title": "Oral Session 1A: 3D Vision & Reconstruction",
+        "type": "Oral",
+        "location": "Ballroom A",
+        "reason": "Contains papers on self-supervised 3D reconstruction, directly aligning with the interest in 'self-supervised 3d'"
+      }
+    ],
+    "10:30-12:00": [
+      {
+        "title": "Poster Session 1: Self-Supervised Learning for 3D Understanding",
+        "type": "Poster",
+        "location": "Exhibition Hall B",
+        "reason": "Focuses explicitly on self-supervised methods in 3D vision, highly relevant to all specified keywords"
+      }
+    ],
+    "13:00-14:30": [
+      {
+        "title": "Workshop: Self-Supervised Representation Learning in 3D Point Clouds",
+        "type": "Workshop",
+        "location": "Workshop Room 3",
+        "reason": "Directly addresses self-supervised learning in 3D data, matching both 'self-supervised' and '3d' interests"
+      }
+    ],
+    "14:30-16:00": [
+      {
+        "title": "Oral Session 2B: 3D Scene Understanding",
+        "type": "Oral",
+        "location": "Ballroom B",
+        "reason": "Includes cutting-edge work on registration and feature learning in 3D scenes, relevant to 'registration' and '3d'"
+      }
+    ],
+    "16:00-18:00": [
+      {
+        "title": "Poster Session 2: Deep Learning for 3D Geometry",
+        "type": "Poster",
+        "location": "Exhibition Hall B",
+        "reason": "Features multiple papers on self-supervised 3D geometry processing, strongly related to the research interests"
+      }
+    ]
+  },
+  "2025-06-18": {
+    "09:00-10:30": [
+      {
+        "title": "Oral Session 3A: Unsupervised and Self-Supervised Learning",
+        "type": "Oral",
+        "location": "Ballroom A",
+        "reason": "Core session on self-supervised learning, including applications to 3D data, directly matching the keywords"
+      }
+    ],
+    "10:30-12:00": [
+      {
+        "title": "Poster Session 3: 3D Pose Estimation and Registration",
+        "type": "Poster",
+        "location": "Exhibition Hall B",
+        "reason": "Focuses on registration techniques in 3D space, highly relevant to 'registration' and '3d' interests"
+      }
+    ],
+    "13:00-15:00": [
+      {
+        "title": "Tutorial: Foundations of Self-Supervised Learning in Vision",
+        "type": "Tutorial",
+        "location": "Tutorial Hall 1",
+        "reason": "Comprehensive tutorial on self-supervised learning, providing foundational knowledge applicable to 3D problems"
+      }
+    ],
+    "15:00-17:00": [
+      {
+        "title": "Workshop: 3D Vision Beyond Supervision",
+        "type": "Workshop",
+        "location": "Workshop Room 2",
+        "reason": "Explores unsupervised and self-supervised methods in 3D vision, perfectly aligning with all research keywords"
+      }
+    ]
+  },
+  "2025-06-19": {
+    "09:00-10:30": [
+      {
+        "title": "Oral Session 4A: 3D Deep Learning",
+        "type": "Oral",
+        "location": "Ballroom A",
+        "reason": "Presents latest advances in deep learning for 3D data, including self-supervised approaches"
+      }
+    ],
+    "10:30-12:00": [
+      {
+        "title": "Poster Session 4: Neural Representations for 3D",
+        "type": "Poster",
+        "location": "Exhibition Hall B",
+        "reason": "Covers neural methods for 3D representation, often using self-supervised or registration-based training"
+      }
+    ],
+    "13:00-14:30": [
+      {
+        "title": "Spotlight Session: Efficient 3D Learning",
+        "type": "Oral",
+        "location": "Ballroom C",
+        "reason": "Highlights compact and efficient models for 3D tasks, many using self-supervised frameworks"
+      }
+    ],
+    "14:30-16:00": [
+      {
+        "title": "Poster Session 5: Geometry and Learning",
+        "type": "Poster",
+        "location": "Exhibition Hall B",
+        "reason": "Interdisciplinary session combining geometric methods with learning, including registration and self-supervision"
+      }
+    ]
+  }
+}

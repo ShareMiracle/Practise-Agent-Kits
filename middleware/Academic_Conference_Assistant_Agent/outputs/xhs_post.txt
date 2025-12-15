@@ -1,0 +1,59 @@
+📍**CVPR 2025 in Nashville | 学术+美食+live music，科研人的快乐老家！**  
+
+大家好呀～我是Siyan，目前正在做 **self-supervised 3D registration 和 medical image analysis** 相关的研究。这次终于第一次以“正式参会者”身份来到CVPR，心情真的超激动！🥹✨  
+
+### 🎯 为什么来CVPR？  
+其实从去年就开始准备这篇笔记了hhh。CVPR对我来说不只是发paper的地方，更是一个能见到“活的paper作者”的神奇场域。尤其是做3D vision和医学图像交叉方向，很多前沿思路都在这里冒头。每年看arXiv觉得抽象的概念，到了poster session突然就变成了可以摸（指指着图问）可以聊的具体问题——这种能量感真的太上头了🔥  
+
+---
+
+### 🔍 我的关注重点：self-supervised + medical imaging  
+虽然点云、生成模型今年特别火🔥，但我还是固执地蹲守在 **无监督/自监督三维配准 + 医学影像分析** 的角落😂。特别是怎么让模型在没有大量标注数据的情况下，依然稳定对齐不同模态的3D医学图像（比如CT和MRI），是我最近死磕的方向。  
+
+所以我的日程表里塞满了：
+- Self-supervised 3D Representation Learning
+- Medical Image Registration workshops
+- Occupancy & Implicit Modeling 中和几何结构相关的oral sessions  
+
+已经标红了至少6场必须去的talk，笔记本也准备好了📒✍️  
+
+---
+
+### ☕ 想认识的人：我想请你们喝咖啡！  
+说实话，我最期待的不是听报告，而是**coffee chat**☕️。有时候一封简单的邮件，就能换来半小时的思想碰撞，甚至是一次未来合作的起点。  
+
+这次特别想connect的几位大佬/同龄研究者👇（如果你们刷到这条…我真的不是bot！）：
+- **Zhenyu Zhang**：你那一系列表征wild 3D face的工作太强了，尤其是在退化图像下的重建思路，对我启发很大！
+- **Tianyu Huang**：scalable registration + stereo物理建模的结合让我眼前一亮👀
+- **Yuanhui Huang**：SelfOcc和GaussianFormer-2简直是我们做occupancy的人的光💡
+- **Sheng Ao**：SpinNet我复现过一遍…BUFFER那篇更是解决了我们实际部署中的痛点😭
+- **Shreyas Hampali**：手部+物体交互的pose估计太难了，但你的Keypoint Transformer给了我新思路！
+
+我已经悄悄准备好五封**简短+真诚+无压力**的email模板📧（见文末草稿），打算会前统一发一波～希望能约上哪怕一两场coffee chat都知足了🙏  
+
+---
+
+### 🍗 会场周边吃喝玩乐指南（步行可达！）  
+会议在 **Music City Center**，位置无敌方便！空闲时间我列了个“科研人高效放松清单”：
+
+🍽️ **吃**（全在10分钟内步行圈）：
+- 午饭首选👉 **Biscuit Love Gulch**：南方风味松饼+鸡蛋奶酪，快速回血⚡️
+- 必打卡👉 **Hattie B’s Hot Chicken**：辣得头皮发麻但停不下来🌶️（微辣都够呛！！）
+- 晚餐小聚👉 **The Southern Steak & Oyster**：生蚝新鲜，氛围适合deep talk🍷
+
+🎨 **玩**（碎片时间也能逛）：
+- 跨过街就是 **Frist Art Museum**：就在会场对面！中场休息溜达一圈看展，脑子瞬间清空🧠➡️🌤️
+- 傍晚去 **John Seigenthaler Bridge** 看日落🌅，河景超治愈
+- 晚上去 **Broadway** 听场live music🎸，听着乡村音乐喝杯啤酒，仿佛穿越到另一个世界🎶
+
+---
+
+### ❤️ 最后想说  
+如果你也在做3D registration / medical imaging / self-supervised learning，或者单纯想找个搭子一起吐槽poster区人太多…  
+**欢迎私我！我们可以一起coffee chat☕，拼饭🍚，甚至组团去唱country song🎤～**  
+
+学术路上一个人走很快，但一群人真的会走得更远。希望这次CVPR，不只是输入知识，也能输出连接 💫  
+
+P.S. 那五封email草稿需要的话可以留言“求模板”，我整理成文档分享给你们📩  
+
+#CVPR2025 #学术会议攻略 #科研日常 #PhDlife #Nashville #computer_vision #3Dvision #medicalimaging #meetup #coffeechat

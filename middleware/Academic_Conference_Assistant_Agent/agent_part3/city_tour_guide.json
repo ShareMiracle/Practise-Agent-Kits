@@ -1,0 +1,61 @@
+{
+  "conference": "CVPR",
+  "year": 2025,
+  "city": "Nashville",
+  "venue": "Music City Center",
+  "address": "201 5th Ave S, Nashville, TN 37203, United States",
+  "restaurants": [
+    {
+      "name": "Peg Leg Porker",
+      "type": "Barbecue",
+      "reason": "Well-known for authentic Nashville-style barbecue, located just a 5-minute walk from the venue, offering a quick and flavorful local dining experience."
+    },
+    {
+      "name": "The Southern Steak & Oyster",
+      "type": "Southern Cuisine",
+      "reason": "Serves classic Southern dishes with a modern twist; within walking distance and ideal for experiencing regional flavors like oysters and fried chicken."
+    },
+    {
+      "name": "Hattie B’s Hot Chicken – Midtown",
+      "type": "Nashville Hot Chicken",
+      "reason": "Famous for its signature spicy fried chicken; a short 10-minute walk away and a must-try local specialty easily enjoyed during a brief break."
+    },
+    {
+      "name": "City House",
+      "type": "Southern Italian Fusion",
+      "reason": "Highly rated for creative Southern-Italian dishes; about a 12-minute walk, perfect for an elevated yet efficient meal."
+    },
+    {
+      "name": "Biscuit Love Gulch",
+      "type": "Brunch/Café",
+      "reason": "Popular spot for Southern-style biscuits and breakfast items; only 8 minutes away on foot, great for a fast, satisfying bite."
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Broadway (Downtown Nashville)",
+      "type": "Entertainment District",
+      "reason": "Lined with live music venues, honky-tonks, and local bars; a 10-minute walk offers a vibrant taste of Nashville’s legendary music scene."
+    },
+    {
+      "name": "Ryman Auditorium",
+      "type": "Historic Music Venue",
+      "reason": "Iconic 'Mother Church of Country Music' with short guided tours; located 15 minutes away on foot, rich in cultural and musical history."
+    },
+    {
+      "name": "Country Music Hall of Fame and Museum",
+      "type": "Museum",
+      "reason": "World-renowned museum showcasing country music heritage; a 7-minute walk, ideal for a concise, immersive visit."
+    },
+    {
+      "name": "John Seigenthaler Pedestrian Bridge",
+      "type": "Scenic Viewpoint",
+      "reason": "Offers panoramic views of the Cumberland River and skyline; about a 12-minute walk, perfect for a peaceful stroll and photos."
+    },
+    {
+      "name": "Frist Art Museum",
+      "type": "Art Museum",
+      "reason": "Housed in a historic post office building with rotating exhibitions; just across the street from the venue, extremely convenient for a short cultural stop."
+    }
+  ]
+}
