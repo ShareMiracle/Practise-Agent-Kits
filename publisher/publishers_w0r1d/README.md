@@ -5,7 +5,6 @@
 - `xiaohongshu_selenium_publisher.py`：基于 Selenium 的真实图文发布自动化。
 - `xiaohongshu_publisher.py`：面向 API 研究/离线调试的占位实现（不执行真实发布）。
 - `twitter_publisher.py`：基于 Tweepy 的 Twitter/Twitter X 发布器，支持单条推文与线程。
-- `bilibili_publisher.py`：B 站发布器示例，可根据需要扩展。
 
 ## 依赖与环境变量
 
@@ -14,7 +13,7 @@
 | 小红书 Selenium | `selenium`, `webdriver-manager`, 本地 Chrome/Chromedriver | `XIAOHONGSHU_COOKIE`（完整 `document.cookie` 字符串）|
 | 小红书 API（占位） | `requests` | `XIAOHONGSHU_COOKIE`, `XIAOHONGSHU_A1`, `XIAOHONGSHU_WEB_SESSION` |
 | Twitter Publisher | `tweepy` | `TWITTER_API_KEY`, `TWITTER_API_SECRET`, `TWITTER_ACCESS_TOKEN`, `TWITTER_ACCESS_SECRET`, `TWITTER_BEARER_TOKEN` |
-| Bilibili Publisher | `requests` | `BILIBILI_SESSDATA`, `BILIBILI_BILI_JCT`, `BILIBILI_BUVID3` |
+
 
 安装依赖：
 
@@ -49,7 +48,6 @@ print("note id:", note_id)
 
 ```bash
 python publishers/xiaohongshu_selenium_publisher.py
-python test_selenium_publish.py
 ```
 
 常见要求：
@@ -93,7 +91,6 @@ publisher.post_tweet("Hello Twitter!")
 publishers/
 ├── README.md              # 本文件
 ├── __init__.py            # 导出所有 publisher 类
-├── bilibili_publisher.py
 ├── twitter_publisher.py
 ├── xiaohongshu_publisher.py
 └── xiaohongshu_selenium_publisher.py
